@@ -1,0 +1,5 @@
+SYNCQT.HEADER_FILES = ../../include/QtDecision/qtdecision.h
+SYNCQT.HEADER_CLASSES = ../../include/QtDecision/QtDecision
+SYNCQT.PRIVATE_HEADER_FILES =
+SYNCQT.QPA_HEADER_FILES = 
+SYNCQT.INJECTIONS = 
